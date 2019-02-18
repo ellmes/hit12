@@ -1,4 +1,0 @@
-Zeile 1 Änderung
-Zeile 2 Änderung
-Hallo hier Anna
-Zeile 4 Änderung von Bob
